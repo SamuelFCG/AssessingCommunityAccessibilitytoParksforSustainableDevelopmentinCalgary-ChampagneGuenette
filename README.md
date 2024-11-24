@@ -45,7 +45,7 @@ Walking Time (minutes): Duration to reach a park.
 Walking Distance (kilometers): Distance to reach a park.
 Crime Count (2024): Total recorded crimes in the community.
 
-<null> = missing data
+<Null> = missing data
 
 References
 Calgary Police statistical reports. (n.d.). https://www.calgary.ca/cps/statistics/calgary-police-statistical-reports.html
