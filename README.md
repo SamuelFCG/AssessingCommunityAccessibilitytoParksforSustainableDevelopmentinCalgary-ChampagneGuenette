@@ -47,4 +47,15 @@ Crime Count (2024): Total recorded crimes in the community.
 
 <null> = missing data
 
+References
+Calgary Police statistical reports. (n.d.). https://www.calgary.ca/cps/statistics/calgary-police-statistical-reports.html
+Digital Elevation Model (DEM) - ASCII 2M | Open Calgary. (2020, December 14). https://data.calgary.ca/Base-Maps/Digital-Elevation-Model-DEM-ASCII-2M/eink-tu9p/about_data
+Find the shortest path and generate directions with Route—ArcGIS Pro | Documentation. (n.d.). https://pro.arcgis.com/en/pro-app/latest/help/analysis/networks/route-tutorial.htm
+Government of Canada, Statistics Canada. (2022, February 9). Population and dwelling counts: Census metropolitan areas, tracted census agglomerations and census tracts. https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810001401&pickMembers%5B0%5D=1.162
+Impervious Surface 2021 | Open Calgary. (2022, November 29). https://data.calgary.ca/Environment/Impervious-Surface-2021/rgsu-3v7u/about_data
+Land Use Districts | Open Calgary. (2024, November 15). https://data.calgary.ca/Base-Maps/Land-Use-Districts/qe6k-p9nh/about_data
+Network Analyst Tutorials—ArCGIS Pro | Documentation. (n.d.). https://pro.arcgis.com/en/pro-app/latest/help/analysis/networks/network-analyst-tutorials.htm
+Parks Sites | Open Calgary. (2024, November 14). https://data.calgary.ca/Recreation-and-Culture/Parks-Sites/kami-qbfh/about_data
+State of our city — Sustainable Calgary. (2021, November 9). Sustainable Calgary. https://www.sustainablecalgary.org/state-of-our-city
+
 This work is licensed under a Creative Commons Attribution 4.0 International License.
